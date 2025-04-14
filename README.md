@@ -6,7 +6,7 @@ CSS3
 JavaScript
 Third party API (jQuery, jQuery moment, Bootstrap)
 
-![image](https://github.com/user-attachments/assets/92784b35-f4bc-4d31-9e2e-8f17090150d9)
+![image](https://github.com/user-attachments/assets/eff5a222-58d1-4558-8d97-5ee4e43d216f)
 
 
 Here are some guidelines for installing the project on your local machine:
